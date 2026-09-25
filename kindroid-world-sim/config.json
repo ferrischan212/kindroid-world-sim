@@ -1,0 +1,27 @@
+{
+  "_help": "Paste each Kindroid profile's id between the quotes. See README.txt, step 4.",
+  "name": "Lora",
+  "companion": "Mochi",
+  "seed_scene": "in bed, lora sitting up under blanket, blushing, Mochi nearby",
+  "master_profile": {
+    "id": "",
+    "user_name": "Master",
+    "user_gender": "Male",
+    "user_backstory": "",
+    "delete_user_avatar": true
+  },
+  "narrator_profile": {
+    "id": "",
+    "user_name": "Narrator",
+    "user_gender": "Nonbinary",
+    "user_backstory": "I am a narrator. I continue the story.\nDo not interact with me.\nDo not talk to me.\nDo not conversate with me.\nDo not acknowledge my existence.",
+    "delete_user_avatar": true
+  },
+  "mochi_profile": {
+    "id": "",
+    "user_name": "Mochi",
+    "user_gender": "Male",
+    "user_backstory": "I am mochi, Lora's white Bichon dog.",
+    "delete_user_avatar": true
+  }
+}
